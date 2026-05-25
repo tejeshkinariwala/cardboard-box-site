@@ -1,0 +1,90 @@
+{
+  "nav": {
+    "home": "Home",
+    "products": "Products",
+    "about": "About",
+    "contact": "Contact",
+    "getQuote": "Get Quote"
+  },
+  "hero": {
+    "badge": "Serving India since 1983",
+    "title1": "Packaging that",
+    "title2": "protects & impresses",
+    "subtitle": "For Sweet & Bakery Boxes. Premium food-grade packaging for Indian sweets, bakeries, and restaurants. Trusted by 2,000+ businesses across Central India and beyond.",
+    "getQuote": "Get a Free Quote",
+    "browseProducts": "Browse Products"
+  },
+  "stats": {
+    "boxesProduced": "Boxes Produced",
+    "happyClients": "Happy Clients",
+    "yearsExperience": "Years Experience",
+    "recyclableMaterials": "Recyclable Materials"
+  },
+  "products": {
+    "sectionLabel": "Our Products",
+    "title": "Packaging for every occasion",
+    "subtitle": "From traditional mithai boxes to modern bakery packaging, we have the perfect solution for your business",
+    "viewAll": "View All Products",
+    "categories": {
+      "indianSweets": {
+        "name": "Indian Sweet Boxes",
+        "description": "Elegant packaging for mithai, ladoos, barfi, and festive dry fruits. Food-grade certified with premium finishes."
+      },
+      "cakeBakery": {
+        "name": "Cake & Bakery",
+        "description": "Sturdy boxes for cakes, pastries, cupcakes, and brownies. Clear windows and secure closures."
+      },
+      "fastFood": {
+        "name": "Sandwich & Fast Food",
+        "description": "Functional packaging for burgers, sandwiches, fries, and combo meals. Designed for delivery."
+      }
+    },
+    "features": {
+      "foodGrade": "Food Grade",
+      "festiveDesigns": "Festive Designs",
+      "customBranding": "Custom Branding",
+      "windowDisplay": "Window Display",
+      "stackable": "Stackable",
+      "greaseProof": "Grease-proof",
+      "ecoFriendly": "Eco-friendly",
+      "trendyDesigns": "Trendy Designs"
+    }
+  },
+  "services": {
+    "sectionLabel": "Our Services",
+    "title": "End-to-end packaging solutions",
+    "subtitle": "From initial concept to final delivery, we handle every aspect of your packaging needs",
+    "customDesign": {
+      "title": "Custom Design",
+      "description": "Work with our expert team to create packaging that perfectly represents your brand and protects your products."
+    },
+    "festiveCollections": {
+      "title": "Festive Collections",
+      "description": "Special packaging designs for Diwali, weddings, and celebrations. Ready-made festive themes to make your sweets shine."
+    },
+    "sustainableSolutions": {
+      "title": "Sustainable Solutions",
+      "description": "100% recyclable and biodegradable options. Reduce your environmental footprint without compromising quality."
+    },
+    "bulkOrders": {
+      "title": "Bulk Orders",
+      "description": "Large volume orders with consistent quality and competitive pricing. Reliable supply for your growing business."
+    }
+  },
+  "testimonials": {
+    "sectionLabel": "Testimonials",
+    "title": "Trusted by businesses across India",
+    "subtitle": "See what our clients say about working with us"
+  },
+  "cta": {
+    "title": "Ready to elevate your packaging?",
+    "subtitle": "Get a custom quote for your business. Our team will help you find the perfect packaging solution.",
+    "button": "Get Your Free Quote"
+  },
+  "footer": {
+    "tagline": "Premium food-grade packaging for Indian sweets, bakeries, and restaurants since 1983.",
+    "quickLinks": "Quick Links",
+    "contact": "Contact",
+    "rights": "All rights reserved."
+  }
+}
